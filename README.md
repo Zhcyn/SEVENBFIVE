@@ -1,0 +1,2 @@
+# SEVENBFIVE
+We are designing a very elegant application that records our daily income and expenditure records. We need to edit each control and each list in detail. At present, the project is still in the development stage, and the layout of the homepage and part of the accounting interface have been completed. In order to make the interface more elegant, we have used a lot of rounded corner designs. We aim to create a perfect application. If you encounter problems during the test, please contact me.
